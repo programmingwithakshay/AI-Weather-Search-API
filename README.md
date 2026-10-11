@@ -1,2 +1,2 @@
 # AI-Weather-Search-API
-I use a ChatGpt code to search a city weather . I make 3 linked files index.html , style.css , script.js. This is my AI based project.
+In this i use a html,css,javascript. Enter a city name gives city weather output. This is my AI based Project.
